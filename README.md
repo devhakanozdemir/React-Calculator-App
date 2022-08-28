@@ -1,3 +1,13 @@
+# React Calculator App
+
+I built react calculator app project by using ReactJS.
+# Screenshot
+<img src="https://github.com/hakanozdemir85/react-calculator-app/blob/master/screenshot.png"/><br><br>
+# Demo GIF
+![](https://github.com/hakanozdemir85/react-calculator-app/blob/master/gif.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
